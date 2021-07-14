@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="24334" started-at="2021-07-13T06:26:48Z" finished-at="2021-07-13T06:27:13Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="24334" started-at="2021-07-13T06:26:48Z" finished-at="2021-07-13T06:27:13Z">
+      <class name="testCases.TC_reqres_API">
+        <test-method status="PASS" signature="test_getUsers()[pri:1, instance:testCases.TC_reqres_API@1df28bb]" name="test_getUsers" duration-ms="19100" started-at="2021-07-13T06:26:49Z" finished-at="2021-07-13T06:27:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getUsers -->
+        <test-method status="PASS" signature="test_addUser()[pri:2, instance:testCases.TC_reqres_API@1df28bb]" name="test_addUser" duration-ms="2978" started-at="2021-07-13T06:27:08Z" finished-at="2021-07-13T06:27:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_addUser -->
+        <test-method status="PASS" signature="test_getUser()[pri:3, instance:testCases.TC_reqres_API@1df28bb]" name="test_getUser" duration-ms="391" started-at="2021-07-13T06:27:11Z" finished-at="2021-07-13T06:27:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getUser -->
+        <test-method status="PASS" signature="test_UpdateUserDetails()[pri:4, instance:testCases.TC_reqres_API@1df28bb]" name="test_UpdateUserDetails" duration-ms="867" started-at="2021-07-13T06:27:11Z" finished-at="2021-07-13T06:27:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_UpdateUserDetails -->
+        <test-method status="PASS" signature="test_DeleteUser()[pri:5, instance:testCases.TC_reqres_API@1df28bb]" name="test_DeleteUser" duration-ms="721" started-at="2021-07-13T06:27:12Z" finished-at="2021-07-13T06:27:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_DeleteUser -->
+      </class> <!-- testCases.TC_reqres_API -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
